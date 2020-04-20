@@ -9,7 +9,7 @@
 
 这里我们以第一种方式为例：
 
-![maven](maven_流程.png)
+![maven](maven.png)
 
 #### Step 1:创建一个Android Library项目
 ---
